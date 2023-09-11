@@ -1,0 +1,161 @@
+*{
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+}
+.RS{
+	background-size: cover;
+	min-height: 90vh;
+}
+.sr{
+	color:yellow;
+	padding-top: 300px;
+   font-size: 50px;
+}
+.s{
+	height:500px;
+	width:500px;
+	margin-top:100px;
+	margin-left:100px;
+}
+.home{
+	margin-left:500px;
+}
+.kri{
+	font-weight: bold;
+	margin-bottom: 20px;
+	font-size: 30px;
+}
+.radha{
+	text-align: justify;
+	margin-right: 20px;
+	color: lightslategrey;
+	line-height: 30px;
+}
+.hanu{
+ height: 150px;
+}
+.laks{
+	height: 40px;
+}
+.vinay{
+	
+	height: 600px;
+	width: 80%;
+	background-color: whitesmoke;
+	margin-bottom: 50px;
+}
+.vijay{
+	font-weight: strong;
+
+}
+.surya{
+	color: lightslategrey;
+	margin-top: 25px;
+	font-size: 19px;
+}
+.theri{
+	font-size: 20px;
+	margin-left: 25px;
+	margin-top: 20px;
+}
+.laks{
+	margin-top: 100px;
+}
+.om{
+	
+  background-image: url('https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20181212162022/Kerala-Houseboat-Backwaters.jpg');
+  height: 500px;
+  background-repeat: block;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.kia{
+	color: whitesmoke;
+	padding-top: 70px;
+   font-size: 50px;
+   padding-left: 50px;
+
+}
+.car{
+	font-size: 20px;
+}
+.rl{
+	height: 150px;
+}
+.bike{
+	color: lightslategrey;
+	font-size: 20px;
+}
+.kk{
+	font-size: 30px;
+}
+.rrr{
+	font-size: 20px;
+	color: lightslategrey;
+}
+.kick{
+margin-left: 90px
+}
+.auto{
+	font-size: 40px;
+}
+.opp{
+	background-color:pink;
+}
+.auto{
+	margin-top: 80px;
+	margin-left: 20px;
+}
+.kv{
+   font-size: 30px;
+}
+.ll{
+	margin-right: 350px;
+}
+.suresh{
+	font-size: 20px;
+}
+.rama{
+	font-size: 30px;
+}
+.rr{
+	font-size: 20px;
+}
+.sam{
+	height: 200px;
+}
+.jai{
+	
+  background-image: url('kerela.jpg');
+  height: 500px;
+  background-repeat: block;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.sree{
+	color: whitesmoke;
+	padding-top: 160px;
+   font-size: 50px;
+   padding-left: 50px;
+
+}
+.ji{
+	height: 80px;
+}
+.r{
+	margin-bottom: 120px;
+}
+.old{
+	background:lightpink;
+}
+.gi{
+	background-color: lightpink;
+	height: 40px;
+}
+.vl{
+	height: 150px;
+}
+.lv{
+	height: 150px;
+}
